@@ -1,5 +1,11 @@
 ## Hi there 👋
 
+- 🔭 I’m currently working on something fun for financial markets 
+- 🌱 I’m currently learning all things code
+- 👯 I’m looking to collaborate on anything relating to analytics
+- 🤔 I’m looking for help with anything useful 
+- 💬 Ask me about things not in code 
+
 <!--
 **Magnus-Barnell/Magnus-Barnell** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
